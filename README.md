@@ -1,6 +1,8 @@
 # Tour Booking App
+![tour](https://github.com/Sujith-Rajan/Tour-Booking/assets/140044515/45f889ec-3767-4063-975b-eb4576677ae4)
+![Screenshot 2024-01-24 064602](https://github.com/Sujith-Rajan/Tour-Booking/assets/140044515/edb9cba2-d69c-4e2a-b3b8-be0df0199323)
 
-![App Screenshot](screenshot.png)
+![tourbooking](https://github.com/Sujith-Rajan/Tour-Booking/assets/140044515/8290aa99-dffa-4f4b-b626-cf7066b098a6)
 
 ## Description
 
